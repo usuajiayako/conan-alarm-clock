@@ -1,0 +1,12 @@
+{
+  "name": "conan-alarm-clock",
+  "displayName": "conan-alarm-clock",
+  "expo": {
+    "name": "conan-alarm-clock",
+    "slug": "conan-alarm-clock",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
